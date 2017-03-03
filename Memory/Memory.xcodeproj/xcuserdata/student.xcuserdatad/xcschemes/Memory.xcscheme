@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3FDD5E6E1E5D89780030C83A"
-               BuildableName = "PortFolio_Memory.app"
-               BlueprintName = "PortFolio_Memory"
-               ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+               BlueprintIdentifier = "3FDD5EAC1E5DA93E0030C83A"
+               BuildableName = "Memory.app"
+               BlueprintName = "Memory"
+               ReferencedContainer = "container:Memory.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3FDD5E821E5D897A0030C83A"
-               BuildableName = "PortFolio_MemoryTests.xctest"
-               BlueprintName = "PortFolio_MemoryTests"
-               ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+               BlueprintIdentifier = "3FDD5EC01E5DA93E0030C83A"
+               BuildableName = "MemoryTests.xctest"
+               BlueprintName = "MemoryTests"
+               ReferencedContainer = "container:Memory.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3FDD5E8D1E5D897A0030C83A"
-               BuildableName = "PortFolio_MemoryUITests.xctest"
-               BlueprintName = "PortFolio_MemoryUITests"
-               ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+               BlueprintIdentifier = "3FDD5ECB1E5DA93E0030C83A"
+               BuildableName = "MemoryUITests.xctest"
+               BlueprintName = "MemoryUITests"
+               ReferencedContainer = "container:Memory.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3FDD5E6E1E5D89780030C83A"
-            BuildableName = "PortFolio_Memory.app"
-            BlueprintName = "PortFolio_Memory"
-            ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+            BlueprintIdentifier = "3FDD5EAC1E5DA93E0030C83A"
+            BuildableName = "Memory.app"
+            BlueprintName = "Memory"
+            ReferencedContainer = "container:Memory.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3FDD5E6E1E5D89780030C83A"
-            BuildableName = "PortFolio_Memory.app"
-            BlueprintName = "PortFolio_Memory"
-            ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+            BlueprintIdentifier = "3FDD5EAC1E5DA93E0030C83A"
+            BuildableName = "Memory.app"
+            BlueprintName = "Memory"
+            ReferencedContainer = "container:Memory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3FDD5E6E1E5D89780030C83A"
-            BuildableName = "PortFolio_Memory.app"
-            BlueprintName = "PortFolio_Memory"
-            ReferencedContainer = "container:PortFolio_Memory.xcodeproj">
+            BlueprintIdentifier = "3FDD5EAC1E5DA93E0030C83A"
+            BuildableName = "Memory.app"
+            BlueprintName = "Memory"
+            ReferencedContainer = "container:Memory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

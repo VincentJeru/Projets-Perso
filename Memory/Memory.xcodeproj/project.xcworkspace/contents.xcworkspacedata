@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PortFolio_Memory.xcodeproj">
+      location = "self:Memory.xcodeproj">
    </FileRef>
 </Workspace>

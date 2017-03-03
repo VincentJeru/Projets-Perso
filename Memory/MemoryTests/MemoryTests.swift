@@ -1,15 +1,15 @@
 //
-//  PortFolio_MemoryTests.swift
-//  PortFolio_MemoryTests
+//  MemoryTests.swift
+//  MemoryTests
 //
 //  Created by Student on 22/02/2017.
 //  Copyright © 2017 Student. All rights reserved.
 //
 
 import XCTest
-@testable import PortFolio_Memory
+@testable import Memory
 
-class PortFolio_MemoryTests: XCTestCase {
+class MemoryTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

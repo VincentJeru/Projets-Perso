@@ -1,6 +1,6 @@
 //
-//  PortFolio_MemoryUITests.swift
-//  PortFolio_MemoryUITests
+//  MemoryUITests.swift
+//  MemoryUITests
 //
 //  Created by Student on 22/02/2017.
 //  Copyright © 2017 Student. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class PortFolio_MemoryUITests: XCTestCase {
+class MemoryUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

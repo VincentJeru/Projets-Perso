@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PortFolio_Memory.xcscheme</key>
+		<key>Memory.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3FDD5E6E1E5D89780030C83A</key>
+		<key>3FDD5EAC1E5DA93E0030C83A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3FDD5E821E5D897A0030C83A</key>
+		<key>3FDD5EC01E5DA93E0030C83A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3FDD5E8D1E5D897A0030C83A</key>
+		<key>3FDD5ECB1E5DA93E0030C83A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

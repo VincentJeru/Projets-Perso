@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  PortFolio_Memory
+//  Memory
 //
 //  Created by Student on 22/02/2017.
 //  Copyright © 2017 Student. All rights reserved.
